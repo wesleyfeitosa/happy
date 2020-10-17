@@ -3,15 +3,15 @@
 <p align="center">
 
   <a href="LICENSE" style="text-decoration: none">
-    <img alt="License" src="https://img.shields.io/github/license/wesleyfeitosa/happy?color=34CB79" />
+    <img alt="License" src="https://img.shields.io/github/license/wesleyfeitosa/happy?color=FFD666" />
   </a>
 
   <a href="https://github.com/wesleyfeitosa/happy/issues" style="text-decoration: none">
-    <img alt="Issues" src="https://img.shields.io/github/issues/wesleyfeitosa/happy?color=34CB79" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/wesleyfeitosa/happy?color=FFD666" />
   </a>
 
   <a href="#" style="text-decoration: none">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesleyfeitosa/happy?color=34CB79" />
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesleyfeitosa/happy?color=FFD666" />
   </a>
   
   <a href="https://github.com/wesleyfeitosa/happy/stargazers" style="text-decoration: none">
